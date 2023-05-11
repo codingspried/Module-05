@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+
+/* ----------------start------------------- */
+
+.banner{
+    background-image:url(../images/header-bg.png);
+    background-repeat:no-repeat;
+    background-position:center; 
+     
+}
+.banner-left{
+    width: 40%;
+    float: left;
+    padding-left:2%;
+    margin-left: 5%;
+}
+.banner-left img{
+    width:100%;
+}
+.banner-left p{
+    padding-bottom:20px;
+}
+.banner-bottom-left{
+    width: 40%;
+    float: left;
+    padding-left:2%;
+    margin-left: 5%;
+}
+.codedesign{
+    color:#ffac28;
+    margin-top:5px;
+}
+ .vertical-align{
+    padding-top:150px;
+} 
+
+.align-items-center{
+    padding-top:200px;
+    padding-left:100px;
+}
+
+.codedesign {
+    color: #EE1E86;
+    margin-top:-25px;
+    margin-bottom: -10px;
+   
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(238, 30, 134),rgb(221, 102, 102));
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 70px;
+    color: white;
+
+}
+.banner2{
+    margin-top:;
+    background-image:url(../images/biography-bg.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    height:800px;
+      
+}
+.images-protfolio{
+    width: 25%;
+    float: left;
+    padding:3%;
+    margin-left:2%;
+
+}
+h2{
+    font-size:50px;
+}
+h1{
+    font-size: 40px;
+}
+
+.images-protfolio img{
+    width: 100%;
+
+}
+.protfolio{
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-image: url(../images/latest-work-bg.png);
+   
+}
+.protfolio h2{
+    text-align: center;
+    
+}
+.footer-top{
+     text-align: center;
+     background-image: url(../images/footer-bg.png);
+     background-repeat: no-repeat;
+     background-position:center;
+     height: 500px;;
+}
+.box-bottom{
+    margin:0 auto;
+    background-image: linear-gradient(45deg,rgb(238, 30, 134),rgb(221, 102, 102));
+    height:100px;
+    width:800px;
+    text-align:center;
+    font-weight: 500;
+    color: white;
+    border-radius: 5px;
+    padding:10px;
+   
+   
+}
+
